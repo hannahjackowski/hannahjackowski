@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hannah Jackowski </h1>
 
-<!--
-**hannahjackowski/hannahjackowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> School Projects: </h2>
 
-Here are some ideas to get you started:
+- <b>CS 367: Computer Systems and Programming </b>
+  - [KI Task Controller (C)](https://github.com/hannahjackowski/REPOURL)
+  - [KIFP Floating-Point Encoding (C)](https://github.com/hannahjackowski/REPOURL)
+- <b>CS 262: Intro. to Low-level Programming </b>
+  - [Cipher Manager (C)](https://github.com/hannahjackowski/REPOURL)
+  
+<h2> Game Projects: </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Slime Towers (C#)](https://github.com/hannahjackowski/REPOURL)
+
+<h2> Contact me:</h2>
+
+[<img align="left" alt="HannahJackowski | LinkedIn" width="22px" src="https://github.com/hannahjackowski/PLACEHOLDER" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/placeholder
+

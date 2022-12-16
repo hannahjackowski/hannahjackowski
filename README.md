@@ -5,7 +5,7 @@
 - <b>CS 367: Computer Systems and Programming </b>
   - [KI Task Controller (C)](https://github.com/hannahjackowski/REPOURL)
   - [KIFP Floating-Point Encoding (C)](https://github.com/hannahjackowski/REPOURL)
-- <b>CS 262: Intro. to Low-level Programming </b>
+- <b>CS 262: Intro to Low-Level Programming </b>
   - [Cipher Manager (C)](https://github.com/hannahjackowski/REPOURL)
   
 <h2> Game Projects: </h2>
@@ -14,7 +14,7 @@
 
 <h2> Contact me:</h2>
 
-[<img align="left" alt="HannahJackowski | LinkedIn" width="22px" src="https://github.com/hannahjackowski/PLACEHOLDER" />][linkedin]
+[<img align="left" alt="HannahJackowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/placeholder
 

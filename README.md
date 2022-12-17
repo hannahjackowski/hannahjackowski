@@ -16,5 +16,5 @@
 
 [<img align="left" alt="HannahJackowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/placeholder
+[linkedin]: https://www.linkedin.com/in/hannah-jackowski-7a3b7b25a
 

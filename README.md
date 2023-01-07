@@ -1,3 +1,5 @@
+This is a WIP I haven't finished yet >:)
+
 <h1>Hannah Jackowski </h1>
 
 <h2> School Projects: </h2>

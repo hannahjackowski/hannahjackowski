@@ -12,7 +12,7 @@ This is a WIP I haven't finished yet >:)
   
 <h2> Game Projects: </h2>
 
-- [Slime Towers (C#)](https://github.com/hannahjackowski/REPOURL)
+- [Slime Towers (C#)](https://gadig.itch.io/slime-towers)
 
 <h2> Contact me:</h2>
 

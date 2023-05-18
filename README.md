@@ -5,7 +5,7 @@ This is a WIP I haven't finished yet >:)
 <h2> School Projects: </h2>
 
 - <b>CS 351: Visual Computing </b>
-  - [Ray-Tracing (C++)](https://github.com/hannahjackowski/REPOURL)
+  - [Recursive Ray Tracing (C++)](https://github.com/hannahjackowski/REPOURL)
 
 - <b>CS 367: Computer Systems and Programming </b>
   - [KI Task Controller (C)](https://github.com/hannahjackowski/REPOURL)

@@ -6,6 +6,7 @@ This is a WIP I haven't finished yet >:)
 
 - <b>CS 351: Visual Computing </b>
   - [Recursive Ray Tracing (C++)](https://github.com/hannahjackowski/REPOURL)
+  - [Image Processing (C++)](https://github.com/hannahjackowski/REPOURL)
 
 - <b>CS 367: Computer Systems and Programming </b>
   - [KI Task Controller (C)](https://github.com/hannahjackowski/REPOURL)

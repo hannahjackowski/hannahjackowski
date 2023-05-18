@@ -4,6 +4,9 @@ This is a WIP I haven't finished yet >:)
 
 <h2> School Projects: </h2>
 
+- <b>CS 351: Visual Computing </b>
+  - [Ray-Tracing (C++)](https://github.com/hannahjackowski/REPOURL)
+
 - <b>CS 367: Computer Systems and Programming </b>
   - [KI Task Controller (C)](https://github.com/hannahjackowski/REPOURL)
   - [KIFP Floating-Point Encoding (C)](https://github.com/hannahjackowski/REPOURL)
@@ -13,6 +16,7 @@ This is a WIP I haven't finished yet >:)
 <h2> Game Projects: </h2>
 
 - [Slime Towers (C#)](https://gadig.itch.io/slime-towers)
+- [Gorilla Grind (C#)](https://gadig.itch.io)
 
 <h2> Contact me:</h2>
 

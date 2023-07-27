@@ -2,6 +2,14 @@ This is a WIP I haven't finished yet >:)
 
 <h1>Hannah Jackowski </h1>
 
+<h2> Game Projects: </h2>
+
+- [Gorilla Grind (C#) - GADIG Spring 2023](https://gadig.itch.io/gorilla-grind)
+- [Cookie Crumbler (C#) - GMTK Game Jam 2023](https://mx-pixie-xoxo.itch.io/cookie-crumbler)
+- [Slime Towers (C#) - GADIG Fall 2022](https://gadig.itch.io/slime-towers)
+
+
+  
 <h2> School Projects: </h2>
 
 - <b>CS 351: Visual Computing </b>
@@ -14,10 +22,6 @@ This is a WIP I haven't finished yet >:)
 - <b>CS 262: Intro to Low-Level Programming </b>
   - [Cipher Manager (C)](https://github.com/hannahjackowski/REPOURL)
   
-<h2> Game Projects: </h2>
-
-- [Slime Towers (C#)](https://gadig.itch.io/slime-towers)
-- [Gorilla Grind (C#)](https://gadig.itch.io)
 
 <h2> Contact me:</h2>
 
